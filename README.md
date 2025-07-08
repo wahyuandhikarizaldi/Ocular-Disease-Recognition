@@ -59,7 +59,7 @@ Model explainability is performed using:
 
 ---
 
-## 🌐 API Deployment (Optional)
+## 🌐 API Deployment
 
 For deployment via API:
 - fastapi
